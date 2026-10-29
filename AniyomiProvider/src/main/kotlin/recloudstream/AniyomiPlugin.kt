@@ -1,3 +1,4 @@
+@file:Suppress("DEPRECATION_ERROR", "DEPRECATION")
 package recloudstream
 
 import android.annotation.SuppressLint
